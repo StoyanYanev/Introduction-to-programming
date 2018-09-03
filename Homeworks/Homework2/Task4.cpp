@@ -1,17 +1,3 @@
-/**
-*
-* Solution to homework task
-* Introduction to programming course
-* Faculty of Mathematics and Informatics of Sofia University
-* Winter semester 2017/2018
-*
-* @author Stoyan Yanev
-* @idnumber 62240
-* @task 4
-* @compiler VC
-*
-*/
-
 #include <iostream>
 #include <vector>
 
